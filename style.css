@@ -15,4 +15,6 @@ body {
     background: #cbe058;
 }
 
-a {position: relative;}
+a {
+    position: relative;
+}
