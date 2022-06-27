@@ -25,7 +25,7 @@ a {
     font-weight: 500;
     font-size: 1.2em;
     letter-spacing: 2px;
-    transition: 0.5s;
+    transition: 0.5s;clip-path: polygon(90% 0, 100% 50%, 90% 100%, 0% 100%, 10% 50%, 0% 0%);
 }
 
 a:hover {
