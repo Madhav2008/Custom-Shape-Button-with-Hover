@@ -31,5 +31,6 @@ a {
 a:hover {
     background: #a7b612;
     color: #fff;
-    letter-spacing: 4px;clip-path: polygon(90% 0, 100% 50%, 90% 100%, 0% 100%, 10% 50%, 0% 0%);
+    letter-spacing: 4px;
+    clip-path: polygon(90% 0, 100% 50%, 90% 100%, 0% 100%, 10% 50%, 0% 0%);
 }
