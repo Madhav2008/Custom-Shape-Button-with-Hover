@@ -28,4 +28,6 @@ a {
     transition: 0.5s;
 }
 
-a:hover {background: ;}
+a:hover {
+    background: ;
+}
