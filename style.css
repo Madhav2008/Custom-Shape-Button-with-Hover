@@ -30,5 +30,6 @@ a {
 
 a:hover {
     background: #a7b612;
-    color: #fff;letter-spacing: 4px;
+    color: #fff;
+    letter-spacing: 4px;
 }
