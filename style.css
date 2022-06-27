@@ -24,5 +24,6 @@ a {
     text-transform: uppercase;
     font-weight: 500;
     font-size: 1.2em;
-    letter-spacing: 2px;transition: 0.5s;
+    letter-spacing: 2px;
+    transition: 0.5s;
 }
